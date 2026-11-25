@@ -1,0 +1,2 @@
+# Codex 前三幕联玩
+读取 `故事/山门/新版/山门前三幕.story.json`，沿用 beyondsight.text-story v1；3幕，8个阶段终点。scene按beats逐段显示visual/dialogue；choice按next跳转；end显示实际阶段结果，不视为整部游戏结束。计数动态取end节点，避免写死4。旧前两幕JSON/HTML仅历史对照，使用新文件。无视频、战斗、数值或运行时AI。自动遍历全部路径，人工验证八路对白及状态一致；未发生的共同记忆不得出现。独立HTML可本地打开，未实测浏览器或现有Codex。M04–M06尚未写，不补造结局。
