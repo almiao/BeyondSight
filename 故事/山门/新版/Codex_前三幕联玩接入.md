@@ -1,3 +1,3 @@
-# Codex 前三幕 v0.7
+# Codex 前三幕 v0.8
 
-唯一输入 `故事/山门/新版/山门前三幕.story.json`；沿用 beyondsight.text-story v1，节点和选择ID已更换，必须新开档。scene逐段显示visual/dialogue，choice按next跳转，end为前三幕阶段出口非全剧结局；动态统计8个终点。HTML内嵌JSON已验证一致。测试八条路线，检查查兽/采药、追令牌/守门、独取/合作、普通藤髓两路均治疗周野、额外玉髓互斥及知情。未实际运行Codex或浏览器，不编造后半部。无战斗系统、视频生成或运行时AI。
+唯一输入 `故事/山门/新版/山门前三幕.story.json`，沿用 beyondsight.text-story v1。三幕、12阶段终点，三或四次选择；动态统计end节点。旧存档不可直接复用，从头体验。scene逐段展示全部visual/dialogue；choice按next跳转；end为阶段出口，不是全剧终局。核对灰符证物/知情、秦晚查兽与苏禾采药实际差异、普通藤髓治疗周野、整/半/无玉髓与韩峥同行。静态图及HTML一致性通过，未实际运行Codex或浏览器；不增加战斗系统或视频生成。
