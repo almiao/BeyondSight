@@ -1,3 +1,2 @@
-# Codex 第一部《山门》v1.5
-
-唯一现行全篇输入 `故事/山门/新版/山门全篇.story.json`，beyondsight.text-story v1，六幕、五次选择、48完整阶段结局。旧阶段end存档不可直接复用。从头播放scene完整visual/dialogue/setting，choice按next，end显示本部结局，不等同整个系列终局。动态统计end。核对历史、玉髓、凝气散、严承、三女主、周野、外门秋选、两种古法结果。静态图通过，实际播放器未测试。无战斗系统。
+# Codex 第一部《山门》v1.6
+唯一输入 `故事/山门/新版/山门全篇.story.json`，beyondsight.text-story v1。六幕、五次选择、48完整阶段结局。新增开篇m01.cold，旧存档从头试玩。scene完整visual/dialogue/setting；choice按next；end为本部结局。原duel节点ID代表独取，不再是比赛。核对陈伯死亡/送别、严承死于致命再袭的自保反击、灰符与知情、药与玉髓、两种古法/三关系。静态通过，实际播放器未测试。
